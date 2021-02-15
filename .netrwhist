@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/cbolanos/projects/cbolanos/phoenix/packages/ui/src'
+let g:netrw_dirhist_6='/Users/cbolanos/projects/cbolanos/phoenix/packages/ui'
+let g:netrw_dirhist_5='/Users/cbolanos/projects/cbolanos/phoenix/packages'
+let g:netrw_dirhist_4='/Users/cbolanos/projects/cbolanos/phoenix/packages/utils'
+let g:netrw_dirhist_3='/Users/cbolanos/projects/cbolanos/phoenix/packages'
+let g:netrw_dirhist_2='/Users/cbolanos/projects/cbolanos/phoenix'
+let g:netrw_dirhist_1='/Users/cbolanos/projects/cbolanos'
+let g:netrw_dirhist_0='/Users/cbolanos/projects/cbolanos/phoenix/packages/ui/src'
+let g:netrw_dirhist_9='/Users/cbolanos/projects/cbolanos/phoenix/packages/ui'
+let g:netrw_dirhist_8='/Users/cbolanos/projects/cbolanos/phoenix/packages'
